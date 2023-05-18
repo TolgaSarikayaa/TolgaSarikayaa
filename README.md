@@ -10,7 +10,6 @@ Hi👋 My name is Tolga
 
 # 💻 Tech Stack:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=veniox&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
