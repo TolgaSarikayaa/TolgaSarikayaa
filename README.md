@@ -12,7 +12,12 @@ Hi👋 My name is Tolga
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=TolgaSarikayaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaSarikayaa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
 
 My Projects
 ![Group 1](https://github.com/Veniox/Veniox/assets/113526329/ce245fab-3961-4c7c-80b3-15aa8021c1ae)
