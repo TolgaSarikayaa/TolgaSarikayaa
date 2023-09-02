@@ -18,10 +18,7 @@ Hi👋 My name is Tolga
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaSarikayaa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-
 My Projects
 ![Group 1](https://github.com/Veniox/Veniox/assets/113526329/ce245fab-3961-4c7c-80b3-15aa8021c1ae)
 
-Coming Soon
 
-![Bildschirmfoto 4](https://github.com/Veniox/Veniox/assets/113526329/71ebbf15-b80e-46de-8c60-086dd973df7f)
