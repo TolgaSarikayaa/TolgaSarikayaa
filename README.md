@@ -19,7 +19,7 @@ Hi👋 My name is Tolga
 
 Coming Soon
 
-![RedBildschirm](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/b2b684f6-8f2b-49ae-8e64-8361304336d8)
+![IMG_6586 2](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c2d3a2b1-9965-4958-aaba-b33ea34b9f92)
 
 
 My Projects
