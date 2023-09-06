@@ -4,7 +4,6 @@ Hi👋 My name is Tolga
 
 🌱 I’m currently learning Swift and iOS Development<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//tolga-sarikaya-4b9031254/) 
 
