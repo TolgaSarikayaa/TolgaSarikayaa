@@ -4,6 +4,14 @@ Hi👋 My name is Tolga
 
 🌱 I’m currently learning Swift and iOS Development<br>
 
+🚀 Ich bin ein leidenschaftlicher iOS-Entwickler und arbeite ständig daran, meine Fähigkeiten im Bereich der Swift-Programmierung zu verbessern. Die Welt der mobilen Anwendungen und iOS-Entwicklung fasziniert mich, und ich bin motiviert, immer auf dem neuesten Stand zu bleiben.
+
+💡Mein Ziel ist es, nicht nur meine eigenen Fähigkeiten zu erweitern, sondern auch einen wertvollen Beitrag zu jedem Projekt zu leisten, an dem ich arbeite.
+
+🤝 Ich bin auf der Suche nach Gelegenheiten, mit gleichgesinnten Entwicklern zusammenzuarbeiten, um innovative iOS-Apps zu erstellen und gemeinsam neue Herausforderungen zu meistern. Ich bin überzeugt, dass Teamarbeit eine unglaubliche Gelegenheit bietet, voneinander zu lernen und kreativ zu sein.
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//tolga-sarikaya-4b9031254/) 
 
