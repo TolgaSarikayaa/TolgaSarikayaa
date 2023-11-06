@@ -20,10 +20,10 @@ Hi👋 My name is Tolga
 
 # __Coming Soon__
 
-![IMG_6586 2](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c2d3a2b1-9965-4958-aaba-b33ea34b9f92)    ![bring](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/d5c2e267-9d91-4040-b0fb-da82f9e86265)
-
+![IMG_6586 2](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c2d3a2b1-9965-4958-aaba-b33ea34b9f92) 
 
 # My Projects
+![bring](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/d5c2e267-9d91-4040-b0fb-da82f9e86265) ![IMG_7034](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c76787a5-4a88-4d9f-a4d8-160eac0a4392)
 ![Group 1](https://github.com/Veniox/Veniox/assets/113526329/ce245fab-3961-4c7c-80b3-15aa8021c1ae)
 
 
