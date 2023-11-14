@@ -18,11 +18,8 @@ Hi👋 My name is Tolga
 # 💻 Tech Stack:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-# __Coming Soon__
-
-![IMG_6586 2](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c2d3a2b1-9965-4958-aaba-b33ea34b9f92) 
-
 # My Projects
+![IMG_6586 2](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c2d3a2b1-9965-4958-aaba-b33ea34b9f92) ![IMG_7085](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/9ee40f0b-ddc3-42d5-8be5-c765074bdbcd)
 ![bring](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/d5c2e267-9d91-4040-b0fb-da82f9e86265) ![IMG_7034](https://github.com/TolgaSarikayaa/TolgaSarikayaa/assets/113526329/c76787a5-4a88-4d9f-a4d8-160eac0a4392)
 ![Group 1](https://github.com/Veniox/Veniox/assets/113526329/ce245fab-3961-4c7c-80b3-15aa8021c1ae)
 
