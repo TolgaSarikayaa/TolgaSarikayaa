@@ -3,6 +3,7 @@
 Hi👋 My name is Tolga 
 
 🌱 I’m currently learning Swift and iOS Development<br>
+💡 Open to collaborations and eager to tackle new challenges.
 
 
 ## 🌐 Socials:
