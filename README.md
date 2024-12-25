@@ -2,8 +2,8 @@
 
 Hi👋 My name is Tolga 
 
-🌱 I’m currently learning Swift and iOS Development<br>
-💡 Open to collaborations and eager to tackle new challenges.
+🌱 Passionate about Swift and iOS Development with 2+ years of dedicated learning and project work.<br>
+💡 Open to collaborations and excited to bring innovative ideas to life in a professional environment.
 
 
 ## 🌐 Socials:
